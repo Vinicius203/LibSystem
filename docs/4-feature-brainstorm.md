@@ -42,5 +42,3 @@ Abaixo estão listadas todas as funcionalidades inicialmente levantadas, sem pri
 - Exportar dados para planilhas.
 
 ---
-
-Esta lista será refinada na próxima etapa: **Seleção de Funcionalidades para o MVP**.

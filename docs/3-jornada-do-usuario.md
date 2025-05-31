@@ -40,4 +40,11 @@
 3. **Entrega livros**
    - Confirma retirada no balcão ou prepara envio domiciliar.
 
-4. **Gerenci**
+4. **Gerencia acervo**
+   - Cadastra novos livros ou atualiza informações de exemplares.
+
+5. **Controla devoluções**
+   - Recebe livros devolvidos e atualiza o sistema.
+
+6. **Gera relatórios**
+   - Visualiza dados sobre uso da biblioteca, atrasos e livros populares.

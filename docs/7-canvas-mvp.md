@@ -1,4 +1,4 @@
-# Canvas do MVP – LibSystem
+# Canvas MVP – LibSystem
 
 ## **Nome do Produto**
 LibSystem

@@ -53,7 +53,6 @@ Agilidade nas Operações
 Reduzir drasticamente o tempo gasto em tarefas operacionais, como cadastros e empréstimos.
 
 4. Personas
-Foto/Ícone
 
 Persona
 

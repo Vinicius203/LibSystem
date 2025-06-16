@@ -12,3 +12,6 @@ O objetivo é facilitar o controle de empréstimos, reservas e renovação de li
 - [Seleção de Funcionalidades](docs/5-feature-selection.md)
 - [Sequenciamento das Funcionalidades](docs/6-feature-sequencer.md)
 - [Canvas MVP](docs/7-canvas-mvp.md)
+
+## Product Backlog Building (PBB)
+- [Product Backlog Bulding](CANVAS_BB.md)

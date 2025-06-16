@@ -14,4 +14,4 @@ O objetivo é facilitar o controle de empréstimos, reservas e renovação de li
 - [Canvas MVP](docs/7-canvas-mvp.md)
 
 ## Product Backlog Building (PBB)
-- [Product Backlog Bulding](CANVAS_BB.md)
+- [Product Backlog Bulding](CANVAS_PBB.md)

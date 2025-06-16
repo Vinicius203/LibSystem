@@ -61,7 +61,6 @@ Perfil / Papel
 
 Necessidades / Objetivos
 
-👤
 
 Bibliotecário(a)
 
@@ -69,7 +68,6 @@ Responsável por gerenciar o acervo, cadastrar novos membros e operar o sistema 
 
 Superar a lentidão do processo manual, ter controle e organização do acervo e dos empréstimos.
 
-🧑
 
 Membro da Biblioteca (Leitor)
 

@@ -53,20 +53,17 @@ Agilidade nas Operações
 Reduzir drasticamente o tempo gasto em tarefas operacionais, como cadastros e empréstimos.
 
 4. Personas
-
 Persona
 
 Perfil / Papel
 
 Necessidades / Objetivos
 
-
 Bibliotecário(a)
 
 Responsável por gerenciar o acervo, cadastrar novos membros e operar o sistema no dia a dia.
 
 Superar a lentidão do processo manual, ter controle e organização do acervo e dos empréstimos.
-
 
 Membro da Biblioteca (Leitor)
 
@@ -163,3 +160,4 @@ F03 - Empréstimo de Livros
 Validar disponibilidade
 
 Como um(a) Bibliotecário(a), ao tentar realizar um empréstimo, eu quero que o sistema verifique a disponibilidade do livro, para evitar emprestar um item que não está no acervo.
+

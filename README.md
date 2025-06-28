@@ -17,7 +17,9 @@ O objetivo é facilitar o controle de empréstimos, reservas e renovação de li
 - [Product Backlog Bulding](docs/pbb/CANVAS_PBB.md)
 
 ## Protótipos
- - [Alta Fidelidade](docs/protótipo/alta_qualidade)
- - [Baixa Fidelidade](docs/protótipo/baixa_qualidade)
+- [Alta Fidelidade](docs/protótipo/alta_qualidade)
+- [Baixa Fidelidade](docs/protótipo/baixa_qualidade)
 
  ## Diagrama de Classes
+
+- [Diagrama de Classes de Domínio](docs/Diagrama_de_Classes/Diagrama_de_classes.png)
